@@ -9,5 +9,3 @@
 
 --> Check out some of my projects!
 
-
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rschavali02)](https://github.com/rschavali02/github-readme-stats)
