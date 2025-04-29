@@ -6,7 +6,7 @@
 ## Previously:
 - 🔭 I worked as a Machine Learning research assistant at the Computaional Imaging lab @ WashU
 - 🌱 I led development of an app for the campus ice cream store using the FERN stack (Firebase, Express.js, React.js, Node.js) 
-- 🏢 I’m build full-stack and ideated product iterations @ Quture Fashion (WashU Startup)
+- 🏢 I built full-stack and ideated product iterations @ Quture Fashion (WashU Startup)
 ## About Me
 - 💬 Ask me about fantasy football, poker, soccer, or the Kansas City Chiefs
 - 📫 How to reach me: rahul.chavali1@gmail.com
