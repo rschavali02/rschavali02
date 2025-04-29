@@ -1,5 +1,5 @@
 # Hi there, I'm Rahul 👋
-## I am studying Math, CS, and Entreprenuership @ Washington University in St. Louis 💻📚🏫
+## I study Math, CS, and Entreprenuership @ Washington University in St. Louis 💻📚🏫
 ## Currently:
 - 📈 I'm currently the President of the McKelvey Fellowship, an organization committing to helping WashU Engineering Students succeed
 - 💼 I'm incoming @ Deepgram as an Engineering intern where I will be building Voice AI experiences under the CSO
