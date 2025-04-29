@@ -1,9 +1,13 @@
 # Hi there, I'm Rahul 👋
-## I am currently studying Math and CS @ Washington University in St. Louis
-
-- 🔭 I’m currently working as a Machine Learning research assistant at the Computaional Imaging lab @ WashU
-- 🌱 I’m currently learning the FERN stack (Firebase, Express.js, React.js, Node.js) while building an app for the campus ice cream store
-- 🏢 I’m currently building full-stack and ideating product @ Quture Fashion (WashU Startup)
+## I am studying Math and CS and minoring in Entreprenuership @ Washington University in St. Louis
+## Currently:
+- 📈 I'm currently the President of the McKelvey Fellowship, an organization committing to helping WashU Engineering Students succeed
+- 💼 I'm incoming @ Deepgram as an Engineering intern where I will be building Voice AI experiences under the CSO
+## Previously:
+- 🔭 I worked as a Machine Learning research assistant at the Computaional Imaging lab @ WashU
+- 🌱 I led development of an app for the campus ice cream store using the FERN stack (Firebase, Express.js, React.js, Node.js) 
+- 🏢 I’m build full-stack and ideated product iterations @ Quture Fashion (WashU Startup)
+## About Me
 - 💬 Ask me about fantasy football, poker, soccer, or the Kansas City Chiefs
 - 📫 How to reach me: rahul.chavali1@gmail.com
 
